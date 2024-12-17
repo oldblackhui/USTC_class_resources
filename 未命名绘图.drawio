@@ -59,7 +59,7 @@
         <mxCell id="d0pJmijx4cC1JQeAYe1_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-18" target="d0pJmijx4cC1JQeAYe1_-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="如何提取全局信息与时空特征&#xa;并有效融合" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-18">
+        <UserObject label="如何提取全局信息与时空特征&#xa;有效融合" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-18">
           <mxCell style="" parent="1" vertex="1">
             <mxGeometry x="919" y="535" width="180" height="80" as="geometry" />
           </mxCell>
