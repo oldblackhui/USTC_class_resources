@@ -67,7 +67,7 @@
         <mxCell id="d0pJmijx4cC1JQeAYe1_-4" value="&lt;b&gt;关键问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="530" width="150" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="聚类或预测填补缺失路段的信息&#xa;进行特征提取&#xa;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="d0pJmijx4cC1JQeAYe1_-6">
+        <UserObject label="聚类或取平均&#xa;填补缺失路段的信息" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="d0pJmijx4cC1JQeAYe1_-6">
           <mxCell style="" parent="1" vertex="1">
             <mxGeometry x="414" y="665" width="195" height="80" as="geometry" />
           </mxCell>
@@ -80,7 +80,7 @@
             <mxGeometry x="1149" y="535" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="分析数据的时间的特性使用不同时间跨度提取&#xa;尝试多种图构造方法提取空间依赖" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="d0pJmijx4cC1JQeAYe1_-11">
+        <UserObject label="使用LSTM提取不同跨度的时间特性，&#xa;借助GCN的提取空间关系&#xa;通过组合提取联合的时空特性" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="d0pJmijx4cC1JQeAYe1_-11">
           <mxCell style="" parent="1" vertex="1">
             <mxGeometry x="635.5" y="665" width="255" height="80" as="geometry" />
           </mxCell>
@@ -90,7 +90,7 @@
             <mxGeometry x="919" y="665" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="测试loss大小&#xa;用实际产生的数据进行测试" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="d0pJmijx4cC1JQeAYe1_-20">
+        <UserObject label="测试loss大小&#xa;用实际数据进行测试" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="d0pJmijx4cC1JQeAYe1_-20">
           <mxCell style="" parent="1" vertex="1">
             <mxGeometry x="1149" y="665" width="180" height="80" as="geometry" />
           </mxCell>
